@@ -1,5 +1,3 @@
-Because I cannot directly access your GitHub account, here is the fastest and easiest way to put this project on your GitHub:
-
 ---
 
 ### Step 1: Create a New Repository on GitHub
